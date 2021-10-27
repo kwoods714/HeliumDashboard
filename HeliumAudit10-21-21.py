@@ -47,7 +47,7 @@ max_time='2021-10-01'
 # In[3]:
 
 
-hotspotLists = pd.read_excel("/Users/kevinwoods/Desktop/Helium/hotspotlists.xlsx")
+# hotspotLists = pd.read_excel("/Users/kevinwoods/Desktop/Helium/hotspotlists.xlsx")
 hotspotLists
 
 
